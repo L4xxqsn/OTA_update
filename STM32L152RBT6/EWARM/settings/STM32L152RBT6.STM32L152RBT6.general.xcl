@@ -1,0 +1,15 @@
+"D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3_3\arm\bin\armproc.dll" 
+
+"D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3_3\arm\bin\armjlink2.dll" 
+
+"D:\learning_IoT\OTA_update\STM32L152RBT6\EWARM\STM32L152RBT6\Exe\STM32L152RBT6.out" 
+
+--plugin="D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3_3\arm\bin\armbat.dll" 
+
+--device_macro="D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3_3\arm\config\debugger\ST\STM32L1xx.dmac" 
+
+--flash_loader="D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3_3\arm\config\flashloader\ST\FlashSTM32L15xxB.board" 
+
+
+
+

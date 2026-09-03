@@ -1,0 +1,15 @@
+# Nested repository metadata kept outside the unified repository
+._git-history-*/
+
+# Local credentials and deployment notes
+STM32L152RBT6/Core/Inc/mqtt_credentials.h
+mqtt-data-system/backend/.env
+mqtt-data-system/系统总结_上位机构成与程序流程.txt
+
+# Build and IDE output
+**/EWARM/**/Obj/
+**/EWARM/**/Exe/
+**/EWARM/**/List/
+**/.vs/
+**/__pycache__/
+**/*.pyc
